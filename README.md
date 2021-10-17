@@ -14,7 +14,7 @@ npm run serve
 ```
 npm run backend - loads our database located on port 5000
 
-(files located on "db.json")
+(DB files located on "db.json")
 
 ```
 
