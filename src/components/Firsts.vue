@@ -34,11 +34,17 @@
                 style="postion:absoulut; left: 40px;"
                 text
                 icon
-                color="blue lighten-2"
+                color="green lighten-2"
               >
                 <v-icon>mdi-plus</v-icon>
               </v-btn>
-              <v-btn v-else rounded style="postion:absoulut; left: 40px;" icon>
+              <v-btn
+                v-else
+                rounded
+                disabled
+                style="postion:absoulut; left: 40px;"
+                icon
+              >
                 <v-icon>mdi-plus</v-icon>
               </v-btn>
             </tr>
