@@ -10,15 +10,16 @@ npm install
 npm run serve
 ```
 
-### Compiles and minifies for production
+### To See Manu 
 ```
-npm run build
+npm run backend - loads our database located on port 5000
+
+(files located on "db.json")
+
 ```
 
-### Lints and fixes files
-```
-npm run lint
-```
+
+
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
